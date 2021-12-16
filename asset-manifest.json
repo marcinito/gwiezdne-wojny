@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/gwiezdne-wojny/static/css/main.964dae4d.chunk.css",
-    "main.js": "/gwiezdne-wojny/static/js/main.766f967f.chunk.js",
-    "main.js.map": "/gwiezdne-wojny/static/js/main.766f967f.chunk.js.map",
+    "main.js": "/gwiezdne-wojny/static/js/main.a747d7c4.chunk.js",
+    "main.js.map": "/gwiezdne-wojny/static/js/main.a747d7c4.chunk.js.map",
     "runtime-main.js": "/gwiezdne-wojny/static/js/runtime-main.93f8d1dd.js",
     "runtime-main.js.map": "/gwiezdne-wojny/static/js/runtime-main.93f8d1dd.js.map",
     "static/css/2.73a4b9c4.chunk.css": "/gwiezdne-wojny/static/css/2.73a4b9c4.chunk.css",
-    "static/js/2.3294296f.chunk.js": "/gwiezdne-wojny/static/js/2.3294296f.chunk.js",
-    "static/js/2.3294296f.chunk.js.map": "/gwiezdne-wojny/static/js/2.3294296f.chunk.js.map",
+    "static/js/2.89ccf97f.chunk.js": "/gwiezdne-wojny/static/js/2.89ccf97f.chunk.js",
+    "static/js/2.89ccf97f.chunk.js.map": "/gwiezdne-wojny/static/js/2.89ccf97f.chunk.js.map",
     "index.html": "/gwiezdne-wojny/index.html",
     "static/css/2.73a4b9c4.chunk.css.map": "/gwiezdne-wojny/static/css/2.73a4b9c4.chunk.css.map",
     "static/css/main.964dae4d.chunk.css.map": "/gwiezdne-wojny/static/css/main.964dae4d.chunk.css.map",
-    "static/js/2.3294296f.chunk.js.LICENSE.txt": "/gwiezdne-wojny/static/js/2.3294296f.chunk.js.LICENSE.txt",
+    "static/js/2.89ccf97f.chunk.js.LICENSE.txt": "/gwiezdne-wojny/static/js/2.89ccf97f.chunk.js.LICENSE.txt",
     "static/media/kosmos1.478066f5.png": "/gwiezdne-wojny/static/media/kosmos1.478066f5.png",
     "static/media/kosmos2.b512f164.png": "/gwiezdne-wojny/static/media/kosmos2.b512f164.png",
     "static/media/kosmos3.4443139d.png": "/gwiezdne-wojny/static/media/kosmos3.4443139d.png"
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.93f8d1dd.js",
     "static/css/2.73a4b9c4.chunk.css",
-    "static/js/2.3294296f.chunk.js",
+    "static/js/2.89ccf97f.chunk.js",
     "static/css/main.964dae4d.chunk.css",
-    "static/js/main.766f967f.chunk.js"
+    "static/js/main.a747d7c4.chunk.js"
   ]
 }

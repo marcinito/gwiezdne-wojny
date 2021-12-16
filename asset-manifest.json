@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gwiezdne-wojny/static/css/main.56ea8410.chunk.css",
-    "main.js": "/gwiezdne-wojny/static/js/main.80c064c2.chunk.js",
-    "main.js.map": "/gwiezdne-wojny/static/js/main.80c064c2.chunk.js.map",
+    "main.js": "/gwiezdne-wojny/static/js/main.5f399be8.chunk.js",
+    "main.js.map": "/gwiezdne-wojny/static/js/main.5f399be8.chunk.js.map",
     "runtime-main.js": "/gwiezdne-wojny/static/js/runtime-main.93f8d1dd.js",
     "runtime-main.js.map": "/gwiezdne-wojny/static/js/runtime-main.93f8d1dd.js.map",
     "static/js/2.d3f41539.chunk.js": "/gwiezdne-wojny/static/js/2.d3f41539.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.93f8d1dd.js",
     "static/js/2.d3f41539.chunk.js",
     "static/css/main.56ea8410.chunk.css",
-    "static/js/main.80c064c2.chunk.js"
+    "static/js/main.5f399be8.chunk.js"
   ]
 }

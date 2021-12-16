@@ -1,5 +1,7 @@
 @import "./sass/_dodatki" ; 
+@import "../../node_modules/bootstrap/scss/bootstrap";
 @import "./sass/_roz"  ;
+
 
 
 .glowny{
@@ -7,13 +9,14 @@
     padding:0px;
     height:100vh;
     background-color: darkcyan;
+    color:red;
  
     &__stronaglowna{
  
         width:100%;
         color:darkblue;
         text-shadow:3px 3px 3px skyblue;
-        min-height:100%;
+        min-height:100%; 
        &__btn1{
            position:relative;
            top:60px;
@@ -32,7 +35,9 @@
             width:100%;
             color:darkcyan;
             text-shadow:3px 3px 3px skyblue;
-            min-height:100%;
+            min-height:100%; 
+            color:red;
+           
     }
     }
     }}

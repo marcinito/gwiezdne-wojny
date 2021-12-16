@@ -10,7 +10,7 @@ function Zawartosc() {
             
             <Routes>
 
-                <Route path="/https://marcinito.github.io/" element={<Gra/>}></Route>
+                <Route path="/" element={<Gra/>}></Route>
                 <Route path="/main" element={<StronaGłowna/>}></Route>
                 <Route path="o-grze" element={<Ogrze/>}></Route>
                 <Route path="/instrukcja" element={<Instrukcja/>}></Route>

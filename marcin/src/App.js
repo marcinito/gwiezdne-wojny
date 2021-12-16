@@ -8,7 +8,7 @@ import './style/style.css'
 
 function App() {
     return (
-     <Router>
+     <Router basename={process.env.PUBLIC_URL}>
 
     
 <>
@@ -17,9 +17,9 @@ function App() {
 <Container>
 <Navbar.Brand href="/">MaRcinGaMeS</Navbar.Brand>
 <Nav className="me-auto">
-  <Nav.Link href="/main">Strona Główna</Nav.Link>
-  <Nav.Link href="/instrukcja">Instrukcja</Nav.Link>
-  <Nav.Link href="/o-grze">Test</Nav.Link>
+  <Nav.Link href="/gwiezdne-wojny/main">Strona Główna</Nav.Link>
+  <Nav.Link href="/gwiezdne-wojny/instrukcja">Instrukcja</Nav.Link>
+  <Nav.Link href="/gwiezdne-wojny/o-grze">Test</Nav.Link>
 </Nav>
 </Container>
 </Navbar>

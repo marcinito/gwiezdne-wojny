@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/gwiezdne-wojny/static/css/main.56ea8410.chunk.css",
-    "main.js": "/gwiezdne-wojny/static/js/main.80c064c2.chunk.js",
-    "main.js.map": "/gwiezdne-wojny/static/js/main.80c064c2.chunk.js.map",
+    "main.js": "/gwiezdne-wojny/static/js/main.218f6cd2.chunk.js",
+    "main.js.map": "/gwiezdne-wojny/static/js/main.218f6cd2.chunk.js.map",
     "runtime-main.js": "/gwiezdne-wojny/static/js/runtime-main.93f8d1dd.js",
     "runtime-main.js.map": "/gwiezdne-wojny/static/js/runtime-main.93f8d1dd.js.map",
-    "static/js/2.d3f41539.chunk.js": "/gwiezdne-wojny/static/js/2.d3f41539.chunk.js",
-    "static/js/2.d3f41539.chunk.js.map": "/gwiezdne-wojny/static/js/2.d3f41539.chunk.js.map",
+    "static/css/2.73a4b9c4.chunk.css": "/gwiezdne-wojny/static/css/2.73a4b9c4.chunk.css",
+    "static/js/2.89ccf97f.chunk.js": "/gwiezdne-wojny/static/js/2.89ccf97f.chunk.js",
+    "static/js/2.89ccf97f.chunk.js.map": "/gwiezdne-wojny/static/js/2.89ccf97f.chunk.js.map",
     "index.html": "/gwiezdne-wojny/index.html",
+    "static/css/2.73a4b9c4.chunk.css.map": "/gwiezdne-wojny/static/css/2.73a4b9c4.chunk.css.map",
     "static/css/main.56ea8410.chunk.css.map": "/gwiezdne-wojny/static/css/main.56ea8410.chunk.css.map",
-    "static/js/2.d3f41539.chunk.js.LICENSE.txt": "/gwiezdne-wojny/static/js/2.d3f41539.chunk.js.LICENSE.txt",
+    "static/js/2.89ccf97f.chunk.js.LICENSE.txt": "/gwiezdne-wojny/static/js/2.89ccf97f.chunk.js.LICENSE.txt",
     "static/media/kosmos1.478066f5.png": "/gwiezdne-wojny/static/media/kosmos1.478066f5.png",
     "static/media/kosmos2.b512f164.png": "/gwiezdne-wojny/static/media/kosmos2.b512f164.png",
     "static/media/kosmos3.4443139d.png": "/gwiezdne-wojny/static/media/kosmos3.4443139d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.93f8d1dd.js",
-    "static/js/2.d3f41539.chunk.js",
+    "static/css/2.73a4b9c4.chunk.css",
+    "static/js/2.89ccf97f.chunk.js",
     "static/css/main.56ea8410.chunk.css",
-    "static/js/main.80c064c2.chunk.js"
+    "static/js/main.218f6cd2.chunk.js"
   ]
 }

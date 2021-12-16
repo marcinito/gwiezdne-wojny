@@ -5,6 +5,7 @@ import logo from "./img/logo.png"
 import Zawartosc from './components/Zawartosc';
 import StronaGłowna from './components/StronaGłowna';
 import './style/style.css'
+import Gra from './components/Gra';
 
 function App() {
     return (
@@ -15,11 +16,11 @@ function App() {
 <Container fluid>
 <Navbar bg="dark" variant="dark" className="container-fluid" fixed="top">
 <Container>
-<Navbar.Brand href="/">MaRcinGaMeS</Navbar.Brand>
+<Navbar.Brand href="https://marcinito.github.io/">MaRcinGaMeS</Navbar.Brand>
 <Nav className="me-auto">
-  <Nav.Link href="/gwiezdne-wojny/main">Strona Główna</Nav.Link>
-  <Nav.Link href="/gwiezdne-wojny/instrukcja">Instrukcja</Nav.Link>
-  <Nav.Link href="/gwiezdne-wojny/o-grze">Test</Nav.Link>
+  <Nav.Link href="/main">Strona Główna</Nav.Link>
+  <Nav.Link href="/instrukcja">Instrukcja</Nav.Link>
+  <Nav.Link href="/o-grze">Test</Nav.Link>
 </Nav>
 </Container>
 </Navbar>

@@ -1,0 +1,38 @@
+@import "./sass/_dodatki" ; 
+@import "./sass/_roz"  ;
+
+
+.glowny{
+    margin:0px;
+    padding:0px;
+    height:100vh;
+    background-color: darkcyan;
+ 
+    &__stronaglowna{
+ 
+        width:100%;
+        color:darkblue;
+        text-shadow:3px 3px 3px skyblue;
+        min-height:100%;
+       &__btn1{
+           position:relative;
+           top:60px;
+           left:30%;
+       }
+    }
+    //Miejsce na dwa kolejne formularze
+    @media (min-width:361px) and (min-height:719px){
+        .glowny{
+        margin:0px;
+        padding:0px;
+        height:100vh;
+        background-color: darkcyan;
+        &__stronaglowna{
+            
+            width:100%;
+            color:darkcyan;
+            text-shadow:3px 3px 3px skyblue;
+            min-height:100%;
+    }
+    }
+    }}

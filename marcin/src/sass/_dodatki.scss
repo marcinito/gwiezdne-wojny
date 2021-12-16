@@ -1,0 +1,21 @@
+
+$breakpoints:(
+   
+    mini1:(min-width:361px) 
+   
+);
+
+@mixin mq($brekpoint){
+  $size:map-get($breakpoints,$breakpoint);
+  @if($size)
+  {
+      @media #{$size}{
+          @content
+      }
+  }
+  
+    
+
+    
+    
+}
